@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Matej",
+        "surName": "C\u00edger",
+        "birthDate": "1995-04-16T00:00:00",
+        "address": "Rascov\u00e1 72, 902 72 \u0160tefanov\u00e1",
+        "email": "kundavit@example.com",
+        "phone": "+421 940 835 215"
+    },
+    {
+        "name": "Mat\u00fa\u0161",
+        "surName": "Kotuli\u010d",
+        "birthDate": "1991-12-18T00:00:00",
+        "address": "Kadn\u00e1rova 4, 979 52 Lada",
+        "email": "vrabecvratislav@example.com",
+        "phone": "00421 940 317 412"
+    },
+    {
+        "name": "Darina",
+        "surName": "Val\u00ed\u010dek",
+        "birthDate": "1996-12-19T00:00:00",
+        "address": "Gron\u00e1rska 424, 881 37 Hlin\u00edk nad Hronom",
+        "email": "pollakimrich@example.net",
+        "phone": "00421 948 639 703"
+    },
+    {
+        "name": "Am\u00e1lia",
+        "surName": "Ken\u00ed\u017e",
+        "birthDate": "1996-06-23T00:00:00",
+        "address": "Kratiny 919, 011 69 Mal\u00fd Cet\u00edn",
+        "email": "qromancik@example.com",
+        "phone": "+421 910 269 153"
+    },
+    {
+        "name": "Edita",
+        "surName": "Marta",
+        "birthDate": "1991-04-01T00:00:00",
+        "address": "Ukrajinsk\u00e1 98, 876 78 Nov\u00e1 Ba\u0161ta",
+        "email": "alexejabraham@example.net",
+        "phone": "00421 44 188 8271"
+    },
+    {
+        "name": "Milica",
+        "surName": "Ma\u010dkov\u00e1",
+        "birthDate": "1993-07-19T00:00:00",
+        "address": "Na grbe 8, 014 49 Hiade\u013e",
+        "email": "markusvalentin@example.com",
+        "phone": "00421 39 267 7261"
+    },
+    {
+        "name": "Gabriel",
+        "surName": "Han\u00faska",
+        "birthDate": "1999-01-05T00:00:00",
+        "address": "\u0160pieszova 620, 954 85 Ve\u013ek\u00e1 \u010causa",
+        "email": "fgazo@example.org",
+        "phone": "+421 940 588 080"
+    },
+    {
+        "name": "Kliment",
+        "surName": "Hu\u0161o",
+        "birthDate": "1994-01-14T00:00:00",
+        "address": "Batkova 9, 948 18 O\u013e\u0161avka",
+        "email": "karolina31@example.org",
+        "phone": "+421 949 193 805"
+    },
+    {
+        "name": "Juliana",
+        "surName": "Ri\u0161ov\u00e1",
+        "birthDate": "1991-11-26T00:00:00",
+        "address": "Ulica Pri pastierni 846, 922 51 Les\u00ed\u010dek",
+        "email": "gejza42@example.net",
+        "phone": "00421 940 464 109"
+    },
+    {
+        "name": "Hubert",
+        "surName": "Dubovsk\u00fd",
+        "birthDate": "1989-08-07T00:00:00",
+        "address": "Lama\u010dsk\u00e1 cesta 3, 895 25 Beluj",
+        "email": "rkavasch@example.com",
+        "phone": "+421 948 195 362"
+    },
+    {
+        "name": "V\u00edt",
+        "surName": "Hu\u0161ov\u00e1",
+        "birthDate": "1995-08-03T00:00:00",
+        "address": "Kremencov\u00e1 71, 937 19 Giraltovce",
+        "email": "sabinakocakova@example.net",
+        "phone": "+421 948 265 169"
+    },
+    {
+        "name": "Andrea",
+        "surName": "Bondra",
+        "birthDate": "1993-12-05T00:00:00",
+        "address": "T\u0155\u0148ov\u00e1 8, 079 97 Kamienka",
+        "email": "zdenko22@example.com",
+        "phone": "00421 949 455 444"
+    },
+    {
+        "name": "Michaela",
+        "surName": "Sklen\u00e1rikov\u00e1",
+        "birthDate": "1993-06-06T00:00:00",
+        "address": "Komonicov\u00e1 23, 092 66 \u0160iatorsk\u00e1 Bukovinka",
+        "email": "holubybernard@example.net",
+        "phone": "+421 34 126 3258"
+    },
+    {
+        "name": "Jaroslav",
+        "surName": "Pavlikov\u00e1",
+        "birthDate": "1992-11-04T00:00:00",
+        "address": "Sp\u00e1dov\u00e1 373, 035 04 Nemeck\u00e1",
+        "email": "ycierny@example.net",
+        "phone": "+421 31 036 0116"
+    },
+    {
+        "name": "Ivona",
+        "surName": "Pup\u00e1kov\u00e1",
+        "birthDate": "1994-04-05T00:00:00",
+        "address": "Pod B\u00f4rikom 8, 019 92 Kva\u010dany",
+        "email": "npelikan@example.net",
+        "phone": "00421 949 914 994"
+    },
+    {
+        "name": "Svetlana",
+        "surName": "Bez\u00e1kov\u00e1",
+        "birthDate": "1994-02-11T00:00:00",
+        "address": "Ondavsk\u00e1 797, 806 64 Neda\u0161ovce",
+        "email": "hstodolova@example.org",
+        "phone": "+421 949 527 029"
+    },
+    {
+        "name": "Matej",
+        "surName": "Melichar",
+        "birthDate": "1998-12-28T00:00:00",
+        "address": "Kr\u00e1sna 464, 011 63 Sv\u00e4toplukovo",
+        "email": "alojzhilmer@example.net",
+        "phone": "00421 940 589 551"
+    },
+    {
+        "name": "Petrana",
+        "surName": "Kov\u00e1\u010dikov\u00e1",
+        "birthDate": "1993-07-16T00:00:00",
+        "address": "Al\u017ebety Gwerkovej 13, 850 27 Mur\u00e1nska Lehota",
+        "email": "svrbikovaelisa@example.net",
+        "phone": "00421 2 24075504"
+    },
+    {
+        "name": "Jarom\u00edra",
+        "surName": "Pa\u013e\u00fachov\u00e1",
+        "birthDate": "1996-10-19T00:00:00",
+        "address": "Francisciho 6, 843 35 \u010caklov",
+        "email": "ferdinand51@example.net",
+        "phone": "+421 948 335 827"
+    },
+    {
+        "name": "Samuel",
+        "surName": "Palovov\u00e1",
+        "birthDate": "1989-04-08T00:00:00",
+        "address": "N\u00e1mestie sv. Franti\u0161 320, 984 81 Hrub\u00fd \u0160\u00far",
+        "email": "sanitralubomir@example.com",
+        "phone": "+421 948 973 895"
+    },
+    {
+        "name": "Sergej",
+        "surName": "Klimo",
+        "birthDate": "1992-06-06T00:00:00",
+        "address": "Kamilkov\u00e1 706, 003 72 Plechotice",
+        "email": "holubekovamichaela@example.org",
+        "phone": "00421 48 784 9960"
+    },
+    {
+        "name": "Tichom\u00edr",
+        "surName": "Poliak",
+        "birthDate": "1996-12-04T00:00:00",
+        "address": "Borsk\u00e1 87, 923 06 Dubodiel",
+        "email": "martinekzoran@example.net",
+        "phone": "00421 948 595 064"
+    },
+    {
+        "name": "Svetlana",
+        "surName": "Makov\u00fd",
+        "birthDate": "1990-11-07T00:00:00",
+        "address": "Bukovinsk\u00e1 4, 829 30 Nitra nad Ip\u013eom",
+        "email": "judita67@example.com",
+        "phone": "+421 2 11485847"
+    },
+    {
+        "name": "Lesana",
+        "surName": "Sedliak",
+        "birthDate": "1992-05-26T00:00:00",
+        "address": "Pri strelnici 9, 029 76 Haniska",
+        "email": "mihalikerik@example.net",
+        "phone": "+421 2 74990170"
+    },
+    {
+        "name": "Peter",
+        "surName": "Pavko",
+        "birthDate": "1992-09-17T00:00:00",
+        "address": "\u010cere\u0161\u0148ov\u00e1 4, 884 67 Senec",
+        "email": "henrichhanusek@example.org",
+        "phone": "00421 940 009 274"
+    },
+    {
+        "name": "Bruno",
+        "surName": "Barbora",
+        "birthDate": "1995-09-01T00:00:00",
+        "address": "\u010caklovsk\u00e1 3, 962 12 Mel\u010dice - Lieskov\u00e9",
+        "email": "xsvab@example.net",
+        "phone": "00421 949 905 988"
+    },
+    {
+        "name": "Stanislava",
+        "surName": "Jakub\u010do",
+        "birthDate": "1992-12-27T00:00:00",
+        "address": "Ko\u0161ick\u00e1 40, 041 58 Sverepec",
+        "email": "alenavaskova@example.org",
+        "phone": "+421 49 344 0280"
+    },
+    {
+        "name": "Erv\u00edn",
+        "surName": "Maur\u00e9ryov\u00e1",
+        "birthDate": "1995-12-17T00:00:00",
+        "address": "Straten\u00e1 99, 846 67 Ve\u013ek\u00fd K\u00fdr",
+        "email": "zkolar@example.com",
+        "phone": "+421 940 266 665"
+    },
+    {
+        "name": "Jarmila",
+        "surName": "Sklen\u00e1rik",
+        "birthDate": "1995-12-08T00:00:00",
+        "address": "Kaplinsk\u00e1 382, 899 68 Detr\u00edk",
+        "email": "angelika06@example.com",
+        "phone": "00421 30 413 5079"
+    },
+    {
+        "name": "Bohumila",
+        "surName": "Pa\u013eko",
+        "birthDate": "1995-06-22T00:00:00",
+        "address": "Starotursk\u00fd chodn\u00edk 946, 033 24 Havaj",
+        "email": "vaskoernest@example.net",
+        "phone": "00421 944 461 512"
+    }
+]
