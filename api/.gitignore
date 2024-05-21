@@ -1,6 +1,7 @@
 # Ignore build output directories
 bin/
 obj/
+TimeSheetsExports/
 
 # Ignore user-specific files
 .vscode/
