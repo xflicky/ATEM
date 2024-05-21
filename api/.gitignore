@@ -1,0 +1,51 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio Code workspace specific files
+.vscode/
+
+# Ignore Rider project files
+.idea/
+
+# Ignore coverage tool output
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore other files and folders
+*.log
+*.tlog
+*.ide
+*.pdb
+*.cache
+*.csproj.user
+*.vspscc
+*.vssscc
+.vscode/
+*.TestResults/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Ignore runtime artifacts
+*.db
+*.log
+*.pdb
+*.cache
+*.config
+*.tmp
+
+# Ignore by OS
+.DS_Store
+Thumbs.db
+desktop.ini
